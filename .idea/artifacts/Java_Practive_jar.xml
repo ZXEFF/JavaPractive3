@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact name="Java Practive:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Java_Practive_jar</output-path>
+    <root id="root">
+      <element id="archive" name="Java Practive.jar">
+        <element id="module-output" name="untitled" />
+        <element id="module-output" name="Java Practive" />
+      </element>
+    </root>
+  </artifact>
+</component>
